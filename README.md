@@ -1,5 +1,5 @@
 # Health Status
 
-[![CI](https://github.com/ваш-username/ваш-репозиторий/actions/workflows/ci.yml/badge.svg)](https://github.com/ваш-username/ваш-репозиторий/actions/workflows/ci.yml)
+[![CI](https://github.com/MoPo3uLka/Pure-Function/actions/workflows/ci.yml/badge.svg)](https://github.com/MoPo3uLka/Pure-Function/actions/workflows/ci.yml)
 
 Функция определения цвета полоски здоровья персонажа.
